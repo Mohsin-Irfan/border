@@ -1,0 +1,2 @@
+# border
+border-color@ shadow
